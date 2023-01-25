@@ -1,0 +1,2 @@
+#root,.app,body,html{width:100%;height:100%}.year{display:flex;flex-wrap:wrap;justify-content:space-between;width:70%;height:50%;margin-left:auto;margin-right:auto}.month{margin:5px 5px 15px}.month-name{color:#df0909;font-weight:700}.day{display:inline-block;text-align:center;line-height:30px}.date,.day{width:30px;height:30px}.date{background:#fff;border-radius:50px;border:none;outline:none}.date.in-month:hover{cursor:pointer;border:solid red}.today{border:solid red}.date.next-month,.date.prev-month{color:grey}
+/*# sourceMappingURL=main.7ee8d537.chunk.css.map */
